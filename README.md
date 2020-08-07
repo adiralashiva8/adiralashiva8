@@ -21,8 +21,10 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=adiralashiva8&show_icons=true&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiralashiva8&hide=CSS,HTML&layout=compact">
 </p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiralashiva8&hide=CSS,HTML&layout=compact">
+ </p>
 
 <p>
   <img src="https://i.ibb.co/r5ThXkV/Git-Hub-Fun-Facts.png"/>
