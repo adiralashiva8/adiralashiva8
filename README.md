@@ -8,7 +8,7 @@
 ### 🛠️ Tech Stack
 
 - 🔣 Python, Java
-- 🤖 Selenium WebDriver, Appium, REST API
+- 🤖 Selenium WebDriver, Appium, REST API, Playwright
 - 🧪 Robotframework, Pytest, TestNg
 - 🧰 Maven, Jenkins, JMeter, JIRA, Postman
 - 🕜 GitHub, BitBucket
