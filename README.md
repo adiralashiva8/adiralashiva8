@@ -23,3 +23,12 @@
 <p>
   <img src="https://i.ibb.co/r5ThXkV/Git-Hub-Fun-Facts.png"/>
 </p>
+
+### Few Concepts I Enjoyed Working:
+ - Automate failure analysis based on exception message
+ - Jenkins jobs parallel executions based on number of suites in projects (use Jenkins API, multithreading)
+ - Fail Test Faster: Use test case timeout, keyword timeouts
+ - Faster Executions: Use API for validations to decrease UI actions, execution times
+ - ServiceNow Data Migration testing using pysnow (5k tables testing within 5hrs)
+ - Generate custom reports using listeners, parsers
+ 
