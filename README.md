@@ -64,27 +64,27 @@
 
 ### 📌 Key Highlights of My Work:
 
- - ⚙️🔧 _ServiceNow Data Migration Testing_
+ - ⚙️🔧 __ServiceNow Data Migration Testing__
    - Fetching Data with PySnow library
    - Field-Level and Record-Level Data Comparison
    - Created detailed HTML Reports for Stakeholders
    - Optimizing Time with Parallel API Calls (15hrs for 8k tables validation)
    - Handling Large Data Sets (>1L records) with Pagination
 
- - 🚀🐍 _Boosting Test Automation Efficiency with Jenkins and Python_ 
+ - 🚀🐍 __Boosting Test Automation Efficiency with Jenkins and Python__ 
    - Python-Driven Parallel Execution (split suites into parallel jobs via Jenkins REST API)
    - Master Jenkins Job for Orchestration (trigger and aggregate job results)
    - Consolidated Reporting (merged results into a single report)
    - Reduced execution time from 15+ hours to 6 hours
 
- - 📝🤖 _Accelerating Test Automation with Smart API Usage and Automated Analysis_ 
+ - 📝🤖 __Accelerating Test Automation with Smart API Usage and Automated Analysis__ 
    - Speeding Up Execution
       - Used APIs for field validations and record management
       - Automated record creation and actions via APIs
       - Using Test & Keyword timeouts to prevent from hanging or running too long
    - Automated Failure Analysis
 
- - 📊📈 _Custom Reporting Solutions Using Listeners and Parsers_
+ - 📊📈 __Custom Reporting Solutions Using Listeners and Parsers__
    - robotframework-metrics, robotframework-historic
    - testng-metrics, pytest-metrics, jmeter-metrics
 
