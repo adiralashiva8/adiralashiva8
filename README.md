@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shiva Prasad Adirala</h1>
-<h3 align="center">A passionate QA from India </h3>
 
 [![Linkedin: shiva-prasad-adirala](https://img.shields.io/badge/-shivaprasadadirala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiva-prasad-adirala/)](https://www.linkedin.com/in/shiva-prasad-adirala/)
 [![GitHub adiralashiva8](https://img.shields.io/github/followers/adiralashiva8?label=follow&style=social)](https://github.com/adiralashiva8)
