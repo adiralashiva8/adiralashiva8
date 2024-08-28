@@ -40,6 +40,12 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/adiralashiva8/robotframework-historic?style=flat-square&labelColor=343b41"/></td>
       </td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/adiralashiva8/robotframework-axelibrary"><b>Robotframework AxeLibrary</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/adiralashiva8/robotframework-axelibrary?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/adiralashiva8/robotframework-axelibrary?style=flat-square&labelColor=343b41"/></td>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -57,16 +63,32 @@
   <img src="https://i.ibb.co/r5ThXkV/Git-Hub-Fun-Facts.png"/>
 </p>
 
-### Few Concepts I Enjoyed Working:
- - Automate failure analysis based on exception message
- - Jenkins jobs parallel executions based on number of suites in projects (use Jenkins API, multithreading)
- - Fail Test Faster: Use test case timeout, keyword timeouts
- - Faster Executions: Use API for validations to decrease UI actions, execution times
- - ServiceNow Data Migration testing using pysnow (5k tables testing within 5hrs)
- - Generate custom reports using listeners, parsers
+### Key Highlights of My Work:
+
+ - ServiceNow Data Migration Testing
+   - Fetching Data with PySnow library
+   - Field-Level and Record-Level Data Comparison
+   - Created detailed HTML Reports for Stakeholders
+   - Optimizing Time with Parallel API Calls (15hrs for 8k tables validation)
+   - Handling Large Data Sets (>1L records) with Pagination
+
+ - 🚀 Boosting Test Automation Efficiency with Jenkins and Python
+   - Python-Driven Parallel Execution (split suites into parallel jobs via Jenkins REST API)
+   - Master Jenkins Job for Orchestration (trigger and aggregate job results)
+   - Consolidated Reporting (merged results into a single report)
+   - Reduced execution time from 15+ hours to 6 hours
+
+ - 🚀 Accelerating Test Automation with Smart API Usage and Automated Analysis
+   - Speeding Up Execution
+      - Used APIs for field validations and record management
+      - Automated record creation and actions via APIs
+      - Using Test & Keyword timeouts to prevent from hanging or running too long
+   - Automated Failure Analysis
+
+ - Implemented Custom Reporting Solutions using listeners, parsers
+   - robotframework-metrics, robotframework-historic
+   - testng-metrics, pytest-metrics, jmeter-metrics
 
 ------------
 
-<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=adiralashiva8&label=Profile%20views&color=0e75b6&style=flat" alt="adiralashiva8" /> </p>
+<p>Feel free to reach out and say hello! 👋 <img src="https://komarev.com/ghpvc/?username=adiralashiva8&label=Profile%20views&color=0e75b6&style=flat" alt="adiralashiva8" /> </p>
