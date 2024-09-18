@@ -3,7 +3,7 @@
 [![Linkedin: shiva-prasad-adirala](https://img.shields.io/badge/-shivaprasadadirala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiva-prasad-adirala/)](https://www.linkedin.com/in/shiva-prasad-adirala/)
 [![GitHub adiralashiva8](https://img.shields.io/github/followers/adiralashiva8?label=follow&style=social)](https://github.com/adiralashiva8)
 
-### 👨🏻‍ About Me
+### 👨🏻‍ About Me 🏆
 
 - 💻  9+ years of experience in software testing
 - 🎓  Bachelor of Engineering in Electronics & Communication
