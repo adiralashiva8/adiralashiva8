@@ -14,7 +14,7 @@
 - 🤖 Selenium WebDriver, Appium, REST API, Playwright
 - 🧪 Robotframework, Pytest, TestNg
 - 🧰 Maven, Jenkins, JMeter, JIRA, Postman
-- 🕜 GitHub, BitBucket
+- 🕜 GitHub, BitBucket, GitHub Actions
 
 ### 📝 My Open source projects
 
